@@ -1,7 +1,7 @@
 Kevin 👋
 
 # 💫 About Me:
-🌱 I’m currently learning C++ , C <br>💬 Ask me about anything <br>⚡ Fun fact : give me something and i will try to learn it
+🌱 I’m currently learning js , node.js <br>💬 Ask me about anything <br>⚡ Fun fact : give me something and i will try to learn it
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Feel free to chat in [![Discord](https://img.shields.io/badge/Discord-%237289DA.
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+! [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mkeko.&theme=radical&hide_border=false)<br/>
 ---
@@ -22,5 +22,4 @@ Feel free to chat in [![Discord](https://img.shields.io/badge/Discord-%237289DA.
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mkekoplayreal@gmail.com) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
