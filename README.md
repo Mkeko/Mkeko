@@ -13,7 +13,7 @@ Feel free to chat in [![Discord](https://img.shields.io/badge/Discord-%237289DA.
 
 
 # 💻 Tech Stack:
-! [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Python , HTML , CSS , JS , NODE.JS
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mkeko.&theme=radical&hide_border=false)<br/>
 ---
