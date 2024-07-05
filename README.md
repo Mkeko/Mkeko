@@ -3,26 +3,19 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Muhammad+Fiaz+and+Welcome+to+my+Profile!" alt="Hey, I'm Muhammad Fiaz and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&random=true&width=940&lines=Hey%2C+I'm+Kevin+kerols+and+Welcome+to+my+Profile!" alt="Hey, I'm Kevin kerols and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
 
-<div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/Mkeko" target="_blank">
-      
+
 [![Follow me on GitHub](https://img.shields.io/github/followers/Mkeko?label=Follow&style=social)](https://github.com/Mkeko)
 </a>
   <br>
     <br>
 
-  <a href="https://wakatime.com/@Mkeko">
-  <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Total Time Badge" />
-</a>
 <br>
 </div>
 <br>
@@ -66,7 +59,6 @@ Hey there! 👋 I'm Kevin,person who loves to create new things<br><br>- ✨ I s
   alt="join discord server"
 />
 </a>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 </div>
 <br>
@@ -129,8 +121,6 @@ Hey there! 👋 I'm Kevin,person who loves to create new things<br><br>- ✨ I s
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
-
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left" alt="flame"/>
