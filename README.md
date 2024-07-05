@@ -50,15 +50,9 @@ Hey there! 👋 I'm Kevin,person who loves to create new things<br><br>- ✨ I s
 
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mkekoplayreal)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/mkekoplayreal)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mkeko)
 [![Google Developer](https://img.shields.io/badge/Developer-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/Mkeko)
-    <a href="https://discord.gg/4UUWejmmD5" target="_blank">
-<img
-  src="https://dcbadge.limes.pink/api/server/https://discord.gg/4UUWejmmD5"
-  alt="join discord server"
-/>
-</a>
+  
 
 </div>
 <br>
