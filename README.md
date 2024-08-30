@@ -2,7 +2,6 @@
 	 <a href="#"><img width="50" src="me.png"></a>
 </p>
 
-<a href="#"><img align="right" src="https://github-readme-stats-mkekos.vercel.app/api?username=Mkeko&show_icons=true&hide_border=true"></a>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881)](https://discord.com/users/1212043905059790881)
 
 <p align="center">
