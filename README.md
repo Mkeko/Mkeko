@@ -21,6 +21,9 @@
 
 <br /><br />
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD1GnxaawPETRxkPcIHSeQw?style=flat&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40MkekoMC"> <img alt="Discord" src="https://img.shields.io/discord/850406703932637232?logo=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Finvite%2FXmPm9nbd3u"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mkekomc?style=flat&logo=Twitch&color=%239146FF&link=https%3A%2F%2Fwww.twitch.tv%2Fmkekomc">
-
+<div align="center">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD1GnxaawPETRxkPcIHSeQw?style=flat&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40MkekoMC">
+  <img alt="Discord" src="https://img.shields.io/discord/850406703932637232?logo=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Finvite%2FXmPm9nbd3u">
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mkekomc?style=flat&logo=Twitch&color=%239146FF&link=https%3A%2F%2Fwww.twitch.tv%2Fmkekomc">
+</div>
 
