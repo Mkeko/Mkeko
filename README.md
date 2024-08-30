@@ -13,9 +13,9 @@
 </p>
 
 <ul align="center">
-  <li>🌟 ```Interests``` : Programming, Gaming, Content Creation</li>
-  <li>💻 __Current Projects__ : Developing cool apps and tools for the community</li>
-  <li>🌐 __Find Me Online__ :</li>
+  <li>🌟 INTERESTS : Programming, Gaming, Content Creation</li>
+  <li>💻 CURRENT PROJECTS : Developing cool apps and tools for the community</li>
+  <li>🌐 FIND ME ONLINE :</li>
   <li><a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!</li>
   <li><a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile</li>
   <li><a href="https://modrinth.com/user/MkekoMC">Modrinth</a> — Explore my mods and tools</li>
