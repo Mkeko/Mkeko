@@ -4,6 +4,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?theme=dark&bg=000000&showDisplayName=true)](https://discord.com/users/1212043905059790881)
 
+<div align="center">
+  <a href="https://discord.com/users/1212043905059790881" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1212043905059790881?theme=dark&bg=000000&showDisplayName=true" alt="Discord Presence">
+  </a>
+</div>
+
+
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
 </p>
