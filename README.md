@@ -2,7 +2,7 @@
 	 <a href="#"><img width="50" src="me.png"></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?theme=dark&bg=000000)](https://discord.com/users/1212043905059790881)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?theme=dark&bg=000000&showDisplayName=true)](https://discord.com/users/1212043905059790881)
 
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
