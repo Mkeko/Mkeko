@@ -13,7 +13,7 @@
 </p>
 
 <ul align="center">
-  <li>🌟 __Interests__ : Programming, Gaming, Content Creation</li>
+  <li>🌟 ```Interests``` : Programming, Gaming, Content Creation</li>
   <li>💻 __Current Projects__ : Developing cool apps and tools for the community</li>
   <li>🌐 __Find Me Online__ :</li>
   <li><a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!</li>
