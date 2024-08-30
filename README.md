@@ -1,6 +1,9 @@
 <p align="center">
 	 <a href="#"><img width="50" src="me.png"></a>
+	[![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?theme=dark&bg=000000&showDisplayName=true)](https://discord.com/users/1212043905059790881)
+	
 </p>
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?theme=dark&bg=000000&showDisplayName=true)](https://discord.com/users/1212043905059790881)
 
