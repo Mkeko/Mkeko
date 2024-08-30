@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🚨 We received a proper request from your browser. 🚨</b>
+  🚨 We received a proper request from your browser. 🚨
 </p>
 
 <p align="center">
@@ -27,7 +27,10 @@
 <p align="center">
   <a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!<br>
   <a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile<br>
-  <a href="https://modrinth.com/user/MkekoMC">Modrinth</a> — Explore my mods and tools
+  <a href="https://modrinth.com/user/MkekoMC">Modrinth</a> — Explore my mods and tools<br>
+  <a href="https://www.youtube.com/@MkekoMC">YouTube</a> — Watch my videos<br>
+  <a href="https://www.twitch.tv/mkekomc">Twitch</a> — Catch me live<br>
+  <a href="https://x.com/Mkekomc">Twitter(X)</a> — Follow me for updates
 </p>
 
 <br />
