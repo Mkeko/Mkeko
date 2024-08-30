@@ -1,4 +1,29 @@
 <p align="center">
+  <b>🚨 We received a proper request from your browser. 🚨</b>
+</p>
+
+<p align="center">
+  😅 Not sorry about that. Please avoid refreshing the page, and don’t hesitate to reach out if the problem persists. We’re here to help! 🙌
+</p>
+
+<br />
+
+<p align="center">
+  👋 Hi there! I’m MkekoMC, a passionate creator and developer. I love exploring new technologies and sharing my projects with the community. Here’s a bit more about me:
+</p>
+
+<ul align="center">
+  <li>🌟 **Interests**: Programming, Gaming, Content Creation</li>
+  <li>💻 **Current Projects**: Developing cool apps and tools for the community</li>
+  <li>🌐 **Find Me Online**:</li>
+  <li><a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!</li>
+  <li><a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile</li>
+  <li><a href="https://modrinth.com/user/MkekoMC">Modrinth</a> — Explore my mods and tools</li>
+</ul>
+
+<br />
+
+<p align="center">
   <a href="#"><img width="50" src="me.png" alt="Profile Picture"></a>
 </p>
 
@@ -11,21 +36,6 @@
 <p align="center">
   <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a>
 </p>
-
-<p align="center">
-  <b>We received a proper request from your browser.</b>
-</p>
-<p align="center">
-  Not sorry about that. Do not try refreshing and don't contact us if the problem persists.
-</p>
-
-<p align="center">
-  <a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> —
-  <a href="https://namemc.com/profile/Mkeko.1">NameMC</a> —
-  <a href="https://modrinth.com/user/MkekoMC">Modrinth</a>
-</p>
-
-<br />
 
 <p align="center">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD1GnxaawPETRxkPcIHSeQw?style=flat&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40MkekoMC">
