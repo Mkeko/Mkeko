@@ -12,14 +12,23 @@
   👋 Hi there! I’m MkekoMC, a passionate creator and developer. I love exploring new technologies and sharing my projects with the community. Here’s a bit more about me:
 </p>
 
-<ul align="center">
-  <li>🌟 INTERESTS : Programming, Gaming, Content Creation</li>
-  <li>💻 CURRENT PROJECTS : Developing cool apps and tools for the community</li>
-  <li>🌐 FIND ME ONLINE :</li>
-  <li><a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!</li>
-  <li><a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile</li>
-  <li><a href="https://modrinth.com/user/MkekoMC">Modrinth</a> — Explore my mods and tools</li>
-</ul>
+<p align="center">
+  <strong>🌟 INTERESTS:</strong> Programming, Gaming, Content Creation
+</p>
+
+<p align="center">
+  <strong>💻 CURRENT PROJECTS:</strong> Developing cool apps and tools for the community
+</p>
+
+<p align="center">
+  <strong>🌐 FIND ME ONLINE:</strong>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!<br>
+  <a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile<br>
+  <a href="https://modrinth.com/user/MkekoMC">Modrinth</a> — Explore my mods and tools
+</p>
 
 <br />
 
