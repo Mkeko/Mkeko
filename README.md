@@ -1,23 +1,16 @@
 <p align="center">
-  🚨 We received a proper request from your browser. 🚨
+  Haii, I’m Mkeko! 
+  <br>I’m a Femboy dev with a side of mental problems
+  <br>(may have a mental breakdown at any given time) 
+  <br>IM CAT LOVVER AND F1 LOVVER :3
 </p>
 
 <p align="center">
-  😅 Not sorry about that. Please avoid refreshing the page, and don’t hesitate to reach out if the problem persists. We’re here to help! 🙌
-</p>
-
-<br />
-
-<p align="center">
-  👋 Hiyaa, I’m Mkeko! I’m a passionate dev with a side of mental problems (may have a mental breakdown at any given time) 
+  <strong>🌟 INTERESTS:</strong> F1, Cats, Programming, Gaming, Content Creation.
 </p>
 
 <p align="center">
-  <strong>🌟 INTERESTS:</strong> Programming, Gaming, Content Creation
-</p>
-
-<p align="center">
-  <strong>💻 CURRENT PROJECTS:</strong> Developing cool apps and tools for the community
+  <strong>💻 CURRENT PROJECTS:</strong> How to die.
 </p>
 
 <p align="center">
@@ -28,9 +21,9 @@
   <a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!<br>
   <a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile<br>
   <a href="https://modrinth.com/user/Mkeko">Modrinth</a> — Explore my mods and tools<br>
-  <a href="https://www.youtube.com/@ItsMkeko">YouTube</a> — Watch my videos<br>
+  <a href="https://www.youtube.com/@epicdriftlover">YouTube</a> — Watch my videos<br>
   <a href="https://www.twitch.tv/mkekomc">Twitch</a> — Catch me live<br>
-  <a href="https://x.com/ItsMkeko">Twitter(X)</a> — Follow me for updates
+  <a href="https://x.com/kevinotmyname">Twitter(X)</a> — Follow me for updates
 </p>
 
 <br />
@@ -49,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD1GnxaawPETRxkPcIHSeQw?style=flat&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40ItsMkeko">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD1GnxaawPETRxkPcIHSeQw?style=flat&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40epicdriftlover">
   <img alt="Discord" src="https://img.shields.io/discord/850406703932637232?logo=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Finvite%2FXmPm9nbd3u">
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mkekomc?style=flat&logo=Twitch&color=%239146FF&link=https%3A%2F%2Fwww.twitch.tv%2Fmkekomc">
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mkekomc?style=flat&logo=Twitch&color=%239146FF&link=https%3A%2F%2Fwww.twitch.tv%2sillymkeko">
 </p>
