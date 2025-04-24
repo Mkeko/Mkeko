@@ -23,7 +23,7 @@
   <a href="https://modrinth.com/user/Mkeko">Modrinth</a> — Explore my mods and tools<br>
   <a href="https://www.youtube.com/@epicdriftlover">YouTube</a> — Watch my videos<br>
   <a href="https://www.twitch.tv/mkekomc">Twitch</a> — Catch me live<br>
-  <a href="https://x.com/kevinotmyname">Twitter(X)</a> — Follow me for updates
+  <a href="https://x.com/epicdriftlover">Twitter(X)</a> — Follow me for updates
 </p>
 
 <br />
