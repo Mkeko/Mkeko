@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!<br>
+  <a href="https://discord.gg/8xmwCQkW8g">Discord</a> — Join my server!<br>
   <a href="https://namemc.com/profile/Mkeko.1">NameMC</a> — Check out my Minecraft profile<br>
   <a href="https://modrinth.com/user/Mkeko">Modrinth</a> — Explore my mods and tools<br>
   <a href="https://www.youtube.com/@epicdriftlover">YouTube</a> — Watch my videos<br>
@@ -43,6 +43,6 @@
 
 <p align="center">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD1GnxaawPETRxkPcIHSeQw?style=flat&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40epicdriftlover">
-  <img alt="Discord" src="https://img.shields.io/discord/850406703932637232?logo=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Finvite%2FXmPm9nbd3u">
+  <img alt="Discord" src="https://img.shields.io/discord/1367837016280272978?logo=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Finvite%2FXmPm9nbd3u">
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mkekomc?style=flat&logo=Twitch&color=%239146FF&link=https%3A%2F%2Fwww.twitch.tv%2sillymkeko">
 </p>
